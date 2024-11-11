@@ -1,0 +1,1 @@
+{"root":["./lib/index.ts","./lib/components/calendar.tsx","./lib/components/calendarframe.tsx","./lib/components/dayview/dayview.tsx","./lib/components/monthview/monthview.tsx","./lib/components/weekview/weekview.tsx"],"version":"5.6.3"}
